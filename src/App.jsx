@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link, Route, BrowserRouter as Router, Routes } from 'react-router-dom';
-import { default as cvFile, default as cvImage } from './img/cv.jpg';
+import cvImage from './img/cv.png';
+import cvFile from './img/cvnathan.pdf';
 import NathanImage from './img/Nathan.png';
 import schemaImage from './img/schema.png';
 
